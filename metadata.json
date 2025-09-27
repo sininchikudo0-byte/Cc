@@ -1,0 +1,7 @@
+{
+  "name": "Auto Dual Camera Capture",
+  "description": "A web application that automatically takes a photo with the front and rear cameras simultaneously upon opening the page.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
